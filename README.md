@@ -1,7 +1,7 @@
-# Quasar App (frontend-cftv)
+# (backend-cftv)
+Este projeto visa desenvolver um sistema de inteligência artificial capaz de reconhecer ações e faces humanas, melhorando a vigilância e a segurança em ambientes residenciais e comerciais.
 
-A Quasar Project
-
+# (frontend-cftv)
 ## Install the dependencies
 ```bash
 yarn
@@ -13,29 +13,3 @@ npm install
 ```bash
 quasar dev
 ```
-
-
-### Lint the files
-```bash
-yarn lint
-# or
-npm run lint
-```
-
-
-### Format the files
-```bash
-yarn format
-# or
-npm run format
-```
-
-
-
-### Build the app for production
-```bash
-quasar build
-```
-
-### Customize the configuration
-See [Configuring quasar.config.js](https://v2.quasar.dev/quasar-cli-vite/quasar-config-js).
